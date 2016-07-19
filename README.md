@@ -13,7 +13,8 @@ This code took me the whole of last summer to write and it has not been tested s
  
 **Indicators.vb** is the file that emulates Bollinger Band as well as a few other statistical analytics tools.
 **FrmMain.vb** is the file that does all the calcualtions: splitting the files into, months, sending it to Indicators.vb
-InputCandle.vb was created late at the end of the project and may be unstable. 
 
+
+This code may be unstable but it worked before
 
 
