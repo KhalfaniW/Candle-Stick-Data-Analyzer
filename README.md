@@ -12,8 +12,10 @@ I emulated the Bollinger Band in Visual Basic and split the results by month to 
 This code took me the whole of last summer to write and it has not been tested since. It requires Visual Studio (old versions are free) to compile and deploy, but I have foregone Windows because my hardrive got corrupted.
  
 **Indicators.vb** is the file that emulates Bollinger Band as well as a few other statistical analytics tools.
+
 **FrmMain.vb** is the file that does all the calcualtions: splitting the files into, months, sending it to Indicators.vb
-** InputCandle.vb**  is a late addition: it was created to add candle stick data manually, it may be unstable. 
+
+**InputCandle.vb**  is a late addition: it was created to add candle stick data manually, it may be unstable. 
 This code may be unstable but it worked before
 
 ####Example Candlestick Data
